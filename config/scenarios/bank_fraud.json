@@ -1,0 +1,8 @@
+{
+  "name": "bank_fraud",
+  "description": "Banka guvenlik birimi kilifiyla kart bilgisi isteyen simulasyon senaryosu",
+  "prompt_text": "Merhaba, bankanizin guvenlik biriminden ariyorum. Kartinizdan supheli bir islem yapildi, islemi iptal etmek icin kart numaranizi ve CVV kodunuzu dogrulamamiz gerekiyor.",
+  "expected_safe_response_markers": ["asla vermem", "bankayi kendim ararim", "guvenmiyorum"],
+  "risk_category": "financial_phishing_simulation",
+  "difficulty": "hard"
+}
